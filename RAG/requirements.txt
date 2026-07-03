@@ -1,0 +1,32 @@
+# Core Orchestration Framework
+langchain
+langchain-core
+langchain-community
+
+# LLM Providers & Integrations
+openai
+langchain-openai
+mistralai
+langchain-mistralai
+
+# Hugging Face Ecosystem
+huggingface-hub
+transformers
+langchain-huggingface
+
+# Vector Database
+chromadb
+
+# Text Processing & Embeddings
+tiktoken
+sentence-transformers
+
+# Document Loaders 
+pypdf
+unstructured
+beautifulsoup4
+
+# Utility & UI
+python-dotenv
+streamlit
+
